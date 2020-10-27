@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1078" viewBox="0 0 1920 1078">
+  <defs>
+    <clipPath id="clip-bg-faq">
+      <rect width="1920" height="1078"/>
+    </clipPath>
+  </defs>
+  <g id="bg-faq" clip-path="url(#clip-bg-faq)">
+    <rect width="1920" height="1078" fill="rgba(255,255,255,0)"/>
+    <g id="bgGroup_318" data-name="bgGroup 318" transform="translate(-12 -4157)">
+      <rect id="Rectangle_102" data-name="Rectangle 102" width="811" height="798" rx="162" transform="translate(-765.539 4693.775) rotate(-28)" opacity="0.08"/>
+      <circle id="Ellipse_28" data-name="Ellipse 28" cx="310.5" cy="310.5" r="310.5" transform="translate(1668 4287)" fill="#ffa417" opacity="0.21"/>
+      <path id="Path_603" data-name="Path 603" d="M16.955,14.243l11.33-11.2a1.766,1.766,0,0,0,0-2.519,1.816,1.816,0,0,0-2.548,0l-11.33,11.2L3.076.523a1.816,1.816,0,0,0-2.548,0,1.766,1.766,0,0,0,0,2.519l11.331,11.2L.528,25.444a1.766,1.766,0,0,0,0,2.519,1.816,1.816,0,0,0,2.548,0l11.331-11.2,11.33,11.2a1.816,1.816,0,0,0,2.548,0,1.766,1.766,0,0,0,0-2.519Z" transform="matrix(0.602, -0.799, 0.799, 0.602, 1532.994, 4793.003)" fill="#fff" opacity="0.5"/>
+      <path id="Path_602" data-name="Path 602" d="M16.356,13.741,27.287,2.935a1.7,1.7,0,0,0,0-2.43,1.752,1.752,0,0,0-2.458,0L13.9,11.311,2.967.5A1.752,1.752,0,0,0,.509.5a1.7,1.7,0,0,0,0,2.43L11.44,13.741.509,24.547a1.7,1.7,0,0,0,0,2.43,1.752,1.752,0,0,0,2.458,0L13.9,16.17,24.829,26.976a1.752,1.752,0,0,0,2.458,0,1.7,1.7,0,0,0,0-2.43Z" transform="translate(218.023 4867.651) rotate(-83)" fill="#fff" opacity="0.86"/>
+      <path id="Path_604" data-name="Path 604" d="M52.971.223a1.667,1.667,0,0,1,1.667,0L74.51,14.662a1.666,1.666,0,0,1,0,2.887L54.638,31.989a1.668,1.668,0,0,1-2.5-1.444V1.667A1.667,1.667,0,0,1,52.971.223Z" transform="translate(1629.892 5023.939) rotate(40)" fill="none" stroke="#fff" stroke-width="3" opacity="0.5"/>
+      <path id="Path_605" data-name="Path 605" d="M52.971.223a1.667,1.667,0,0,1,1.667,0L74.51,14.662a1.666,1.666,0,0,1,0,2.887L54.638,31.989a1.668,1.668,0,0,1-2.5-1.444V1.667A1.667,1.667,0,0,1,52.971.223Z" transform="translate(465.792 5174.589) rotate(-25)" fill="none" stroke="#fff" stroke-width="3" opacity="0.5"/>
+    </g>
+  </g>
+</svg>
